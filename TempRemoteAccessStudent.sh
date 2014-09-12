@@ -2,7 +2,7 @@
 
 # Script to ask for the name of a teaching computer to remote access
 
-# Author      : r.purves@arts.ac.uk
+# Author      : contact@richard-purves.com
 # Version 1.0 : 03-09-2013 - Initial Version
 # Version 1.1 : 05-09-2013 - Detect if a file is present and use the address there
 
