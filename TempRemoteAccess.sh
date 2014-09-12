@@ -2,7 +2,7 @@
 
 # Script to enable/disable student vnc access account
 
-# Author      : r.purves@arts.ac.uk
+# Author      : contact@richard-purves.com
 # Version 1.0 : 03-09-2013 - Initial Version
 
 # Check to see if parameter is present. Fail if not.
